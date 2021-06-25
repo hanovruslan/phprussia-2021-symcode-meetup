@@ -17,7 +17,7 @@ style: |
     section.section-white { background-color: #fff !important; }
 ---
 
-# ![](pictures/symcode-logo.svg){:.logo}
+# ![](pictures/symcode-logo.svg){:.logo_center}
 
 ## {{ site.presentation.title }}
 {:.title}
