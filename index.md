@@ -14,16 +14,19 @@ style: |
 ## Контакты
 {:.contacts}
 
+<figure markdown="1">
+
+</figure>
 <!-- разделитель контактов -->
 -------
 
 <!-- left -->
-{{ site.author.company.name }}
+- {{ site.author.company.name }}
 - {:.telegram}symcode
 - {:.telegram}symcode_live
 
 <!-- right -->
-{{ site.author.name }}
+- {{ site.author.name }}
 - {:.telegram}hanovruslan
 - {:.mail}hanov.ruslan@gmail.com
 - {:.github}hanovruslan
