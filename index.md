@@ -4,9 +4,19 @@ layout: yandex2
 
 style: |
     /* собственные стили можно писать здесь!! */
+    .pre-small pre code { font-size: 24px!important; line-height: 48px!important; }
+    .pre-big pre code { font-size: 54px !important; line-height: 108px !important; } #  9 lines x 52 symbols
+    .big-list { font-size: 80px!important; line-height: 160px!important; }
+    .images-w { background-color: #fff !important; }
+    .images-wide { width: 100%; }
+    .red { border-left: 9px solid #f00 !important; }
+    figure.short { width: 480px !important; }
+    .text-center { text-align: center !important; }
+    img.center { margin: auto !important; }
+    section.section-white { background-color: #fff !important; }
 ---
 
-# ![](pictures/symcode-logo-legacy.svg){:.logo}
+# ![](pictures/symcode-logo.svg){:.logo}
 
 ## {{ site.presentation.title }}
 {:.title}
@@ -24,12 +34,14 @@ style: |
 * как работает в рантайме
 * кто использует
 * что есть готовое
-* 
+
 ## Docker
 
 ## CI\CD
 
-## Пример проекта
+## Пример проекта (humbug/box)
+
+https://github.com/hanovruslan/phar-demo
 
 ## Контакты
 {:.contacts}
