@@ -6,7 +6,7 @@ style: |
     /* собственные стили можно писать здесь!! */
 ---
 
-# ![](pictures/symcode-logo.svg){:height="100%"}
+# ![](pictures/symcode-logo.svg){:height="640px"}
 
 ## {{ site.presentation.title }}
 {:.title}
