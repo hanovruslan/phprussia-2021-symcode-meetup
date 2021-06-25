@@ -1,6 +1,6 @@
-# jekyller symcode #
+# phprussia 2021 symcode meetup #
 
-[View](https://hanovruslan.github.io/jekyller-symcode)
+[View](https://hanovruslan.github.io/phprussia-2021-symcode-meetup)
 
 ## Development ##
 
