@@ -10,7 +10,7 @@ default_ratio: 16x9
 default_lang: en
 
 presentation:
-    title: Symcode
+    title: Деплой артефактами
     nda: false
     lang: ru
 

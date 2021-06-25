@@ -7,6 +7,7 @@ style: |
 ---
 
 # ![](pictures/symcode-logo.svg){:.logo}
+### {{ site.author.company.name }}
 
 ## {{ site.presentation.title }}
 {:.title}
@@ -20,21 +21,19 @@ style: |
 
 <figure markdown="1">
 
-### {{ site.author.name }}
-{{ site.author.company.name }}
+### {{ site.author.company.name }}
+{{ site.author.name }}
 
 </figure>
 <!-- разделитель контактов -->
 -------
 
 <!-- left -->
-- {:.telegram}hanovruslan
-- {:.mail}hanov.ruslan@gmail.com
-- {:.github}hanovruslan
-
-<!-- right -->
-
 - {:.telegram}symcode
 - {:.telegram}symcode_live
 
 <!-- right -->
+
+- {:.telegram}hanovruslan
+- {:.mail}hanov.ruslan@gmail.com
+- {:.github}hanovruslan
