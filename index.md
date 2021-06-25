@@ -13,10 +13,11 @@ style: |
     figure.short { width: 480px !important; }
     .text-center { text-align: center !important; }
     img.center { margin: auto !important; }
+    img.logo_center { display: block !important; margin-left: auto !important; margin-right: auto !important; width: 50% !important; }
     section.section-white { background-color: #fff !important; }
 ---
 
-# ![](pictures/symcode-logo-legacy.svg){:.logo}
+# ![](pictures/symcode-logo.svg){:.logo}
 
 ## {{ site.presentation.title }}
 {:.title}
