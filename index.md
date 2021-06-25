@@ -7,33 +7,23 @@ style: |
 ---
 
 # ![](pictures/symcode-logo.svg){:.logo}
-### {{ site.author.company.name }}
 
 ## {{ site.presentation.title }}
 {:.title}
 
-## История
-
-**Symcode**
-
 ## Контакты
 {:.contacts}
 
-<figure markdown="1">
-
-### {{ site.author.company.name }}
-{{ site.author.name }}
-
-</figure>
 <!-- разделитель контактов -->
 -------
 
 <!-- left -->
+{{ site.author.company.name }}
 - {:.telegram}symcode
 - {:.telegram}symcode_live
 
 <!-- right -->
-
+{{ site.author.name }}
 - {:.telegram}hanovruslan
 - {:.mail}hanov.ruslan@gmail.com
 - {:.github}hanovruslan
