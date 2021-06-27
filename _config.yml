@@ -22,3 +22,5 @@ author:
         url:  https://hanovruslan.github.io/phprussia-2021-symcode-meetup
 
 progress: true
+
+theme: jekyll-theme-tactile
